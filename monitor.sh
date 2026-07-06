@@ -2,7 +2,7 @@
 
 echo "================================="
 echo "EC2 Monitoring Report"
-echo "Date: $(Date)"
+echo "Date: $(date)"
 echo "====================================="
 
 
